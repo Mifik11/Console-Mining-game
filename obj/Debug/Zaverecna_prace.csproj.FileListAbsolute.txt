@@ -1,0 +1,14 @@
+D:\Škola\Škola C\Zaverecna_prace\bin\Debug\Zaverecna_prace.exe.config
+D:\Škola\Škola C\Zaverecna_prace\bin\Debug\Zaverecna_prace.exe
+D:\Škola\Škola C\Zaverecna_prace\bin\Debug\Zaverecna_prace.pdb
+D:\Škola\Škola C\Zaverecna_prace\obj\Debug\Zaverecna_prace.csprojAssemblyReference.cache
+D:\Škola\Škola C\Zaverecna_prace\obj\Debug\Zaverecna_prace.csproj.CoreCompileInputs.cache
+D:\Škola\Škola C\Zaverecna_prace\obj\Debug\Zaverecna_prace.exe
+D:\Škola\Škola C\Zaverecna_prace\obj\Debug\Zaverecna_prace.pdb
+C:\Users\aleks\OneDrive\Рабочий стол\Zaverecna_prace\bin\Debug\Zaverecna_prace.exe.config
+C:\Users\aleks\OneDrive\Рабочий стол\Zaverecna_prace\bin\Debug\Zaverecna_prace.exe
+C:\Users\aleks\OneDrive\Рабочий стол\Zaverecna_prace\bin\Debug\Zaverecna_prace.pdb
+C:\Users\aleks\OneDrive\Рабочий стол\Zaverecna_prace\obj\Debug\Zaverecna_prace.csproj.AssemblyReference.cache
+C:\Users\aleks\OneDrive\Рабочий стол\Zaverecna_prace\obj\Debug\Zaverecna_prace.csproj.CoreCompileInputs.cache
+C:\Users\aleks\OneDrive\Рабочий стол\Zaverecna_prace\obj\Debug\Zaverecna_prace.exe
+C:\Users\aleks\OneDrive\Рабочий стол\Zaverecna_prace\obj\Debug\Zaverecna_prace.pdb
